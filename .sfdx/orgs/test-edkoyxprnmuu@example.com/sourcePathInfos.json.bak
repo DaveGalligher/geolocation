@@ -45,15 +45,15 @@
     [
         "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1519513348000,
             "changeTime": 1519513348000,
-            "isWorkspace": false,
-            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -285,10 +285,10 @@
             "sourcePath": "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 199,
-            "modifiedTime": 1519513507000,
-            "changeTime": 1519513507000,
-            "contentHash": "dea92f0d2d99b281343beb790cbb71ff72b1438f"
+            "size": 206,
+            "modifiedTime": 1519513714000,
+            "changeTime": 1519513714000,
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1"
         }
     ],
     [
@@ -918,131 +918,131 @@
     [
         "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap",
         {
-            "state": "u",
             "sourcePath": "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 374,
             "modifiedTime": 1519513348000,
             "changeTime": 1519513348000,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1519513348000,
             "changeTime": 1519513348000,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 260,
             "modifiedTime": 1519513394000,
             "changeTime": 1519513394000,
-            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669"
+            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1519513348000,
             "changeTime": 1519513348000,
-            "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af"
+            "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
-            "state": "u",
             "sourcePath": "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1519513448000,
             "changeTime": 1519513448000,
-            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
         {
-            "state": "u",
             "sourcePath": "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1519513348000,
             "changeTime": 1519513348000,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1519513348000,
             "changeTime": 1519513348000,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 389,
             "modifiedTime": 1519513414000,
             "changeTime": 1519513414000,
-            "contentHash": "96df2bbc44d6a1cc778c826039135b3cba593eaa"
+            "contentHash": "96df2bbc44d6a1cc778c826039135b3cba593eaa",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1519513348000,
             "changeTime": 1519513348000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/davegalligher/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1519513348000,
             "changeTime": 1519513348000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
